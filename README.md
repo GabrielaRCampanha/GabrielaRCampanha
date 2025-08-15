@@ -31,7 +31,7 @@
 ## 📌 Projetos em Destaque
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Meu-Primeiro-Projeto-em-Python](https://github.com/GabrielaRCampanha/Meu-Primeiro-projeto-em-Python) | Projeto em andamento com conceitos iniciais de Python | Python |
+| [README-de-projeto-de-portifolio-](https://github.com/GabrielaRCampanha/README-de-projeto-de-portifolio-.git)| Projeto em andamento com conceitos iniciais de Python | Python 
 | [Projeto-Site](https://github.com/GabrielaRCampanha/projeto-site) | Site criado durante curso de Git e GitHub | HTML, CSS |
 | [Projeto-Java](https://github.com/GabrielaRCampanha/NOME-DO-PROJETO) | Exercícios e projetos desenvolvidos em Java | Java |
 
