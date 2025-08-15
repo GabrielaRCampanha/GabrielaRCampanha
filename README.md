@@ -44,6 +44,6 @@
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff4da6?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link)
-[![Email](https://img.shields.io/badge/-Email-ff4da6?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff4da6?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielarcampanha/)
+[![Email](https://img.shields.io/badge/-Email-ff4da6?style=flat&logo=gmail&logoColor=white)](mailto:gabrielarcampanha@icloud.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-ff4da6?style=flat&logo=github&logoColor=white)](https://github.com/GabrielaRCampanha)
