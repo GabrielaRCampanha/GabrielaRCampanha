@@ -1,24 +1,49 @@
-## Ola eu sou a Gabriela R Campanha☆*: .｡. o(≧▽≦)o .｡.:*☆
 
-- 🔭 Em transição de carreira
-- 🌱 Estudando Python com IA
-- 😄 Pronomes:Ela/Dela
+<h1 align="center" style="color:#ff4da6;">✨ Oi, eu sou a Gabriela R Campanha ✨</h1>
+<h3 align="center" style="color:#ff99cc;">🚀 Em transição de carreira | 🎯 Estudando Python com IA e Java | 🌱 Aprendendo sempre</h3>
 
-## Conecte-se comigo
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabrielarcampanha/)
-[![E-mail](https://img.shields.io/badge/-Email-ec63a1?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gabrielarcampanha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielaRCampanha)
+## 💖 Sobre mim
+•⁠  ⁠💼 Em transição para a área de **Tecnologia**
 
-## Habilidades
-![Python](https://img.shields.io/badge/python-ec63a1?style=for-the-badge&logo=python&logoColor=fff)
+•⁠  ⁠📚 Atualmente estudando **Analise e Desenvolvimento de Sistema**
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielaRCampanha&theme=transparent&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielaRCampanha&layout=compact&bg_color=ec63a1&border_color=fff&title_color=fff&text_color=FFF)
-  
-## Minhas Contribuições 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielaRCampanha&repo=projeto-site&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/GabrielaRCampanha/projeto-site)
+•⁠  ⁠🌍 Localização: **Brasil**
 
+•⁠  ⁠💬 Pronomes: **Ela/Dela**
 
+•⁠  ⁠🎯 Objetivo: **Desenvolver soluções inteligentes e úteis para problemas reais**
 
+•⁠  ⁠📫 Contato: **gabrielarcampanha@icloud.com**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+![Python](https://img.shields.io/badge/-Python-ff4da6?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ff4da6?style=flat&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-ff4da6?style=flat&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-ff4da6?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-ff4da6?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [Meu-Primeiro-Projeto-em-Python](https://github.com/GabrielaRCampanha/Meu-Primeiro-projeto-em-Python) | Projeto em andamento com conceitos iniciais de Python | Python |
+| [Projeto-Site](https://github.com/GabrielaRCampanha/projeto-site) | Site criado durante curso de Git e GitHub | HTML, CSS |
+| [Projeto-Java](https://github.com/GabrielaRCampanha/NOME-DO-PROJETO) | Exercícios e projetos desenvolvidos em Java | Java |
+
+---
+
+## 📊 Estatísticas do GitHub
+![GabrielaRCampanha GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielaRCampanha&show_icons=true&title_color=ff4da6&icon_color=ff4da6&text_color=ffffff&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaRCampanha&layout=compact&title_color=ff4da6&text_color=ffffff&bg_color=0d1117)
+
+---
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff4da6?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link)
+[![Email](https://img.shields.io/badge/-Email-ff4da6?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-ff4da6?style=flat&logo=github&logoColor=white)](https://github.com/GabrielaRCampanha)
